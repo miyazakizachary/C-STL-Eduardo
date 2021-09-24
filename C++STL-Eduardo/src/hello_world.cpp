@@ -30,6 +30,7 @@ int main() {
 	
 	vector<school_guest> * record = new vector<school_guest>;
 	list<school_guest> * record_list = new list<school_guest>;
+
 	const char* filename = "E:\\Training\\C++\\C++STL-Eduardo\\C++STL-Eduardo\\C++STL-Eduardo\\out\\record.txt";
 	ReadFileVectorForPersons(record, filename);
 	PrintVectorPersons(record);

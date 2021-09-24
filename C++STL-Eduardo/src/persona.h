@@ -1,7 +1,6 @@
 #pragma once
 
 #include <string>
-
 using namespace std;
 
 template <typename T>
@@ -30,13 +29,12 @@ protected:
 	int age;
 };
 
+
 template <typename T>
 int person<T>::objectCount = 0;
 
-
 class school_guest : public person<string> {
 public:
-
 	school_guest() {}
 	~school_guest() {}
 	school_guest(string& name, string& gender, int age) : person(name, gender, age) {}
