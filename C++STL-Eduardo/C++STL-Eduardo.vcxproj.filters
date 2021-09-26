@@ -27,7 +27,7 @@
     <ClCompile Include="src\school_guest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\container_operations.cpp">
+    <ClCompile Include="src\deque_stack_queue_operations.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

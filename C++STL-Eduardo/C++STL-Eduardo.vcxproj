@@ -155,7 +155,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="src\container_operations.cpp" />
+    <ClCompile Include="src\deque_stack_queue_operations.cpp" />
     <ClCompile Include="src\hello_world.cpp" />
     <ClCompile Include="src\list_operations.cpp" />
     <ClCompile Include="src\school_guest.cpp" />

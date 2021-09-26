@@ -13,11 +13,14 @@ int size_in_bits(const T& a) {
 }
 
 int main() {
+	/*
 	cout << "Hello World!" << endl;
 	cout << size_in_bits(21) << endl;
 	cout << size_in_bits(2.45f) << endl;
 	cout << size_in_bits('F') << endl;
 	cout << size_in_bits(32.80) << endl;
+
+	*/
 
 	/* vector and list */
 	cout << "Vector Operations...." << endl;
@@ -28,6 +31,7 @@ int main() {
 	cout << "------------------" << endl;
 	//ListOperations();
 	
+	/*
 	vector<school_guest> * record = new vector<school_guest>;
 	list<school_guest> * record_list = new list<school_guest>;
 
@@ -60,6 +64,21 @@ int main() {
 
 	cout << "get the average of LIST records" << endl;
 	cout << "average of age in record: " << GetPersonAgeAverageByVector(*record) << endl;
+	*/
+
+	/*
+	// deque
+	DequeBasicOperations();
+	//stack
+	StackBasicOperations();
+	//queue
+	QueueBasicOperations();
+	//priority queue
+	PriorityQueueBasicOperations();
+	*/
+
+	//simulating browser back button
+	BrowserBackButtonSimulation();
 
 	cin.get();
 }
