@@ -156,9 +156,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="src\deque_stack_queue_operations.cpp" />
-    <ClCompile Include="src\hello_world.cpp" />
+    <ClCompile Include="src\a_main_entry.cpp" />
     <ClCompile Include="src\list_operations.cpp" />
     <ClCompile Include="src\school_guest.cpp" />
+    <ClCompile Include="src\sets_operations.cpp" />
     <ClCompile Include="src\vector_operations.cpp" />
   </ItemGroup>
   <ItemGroup>

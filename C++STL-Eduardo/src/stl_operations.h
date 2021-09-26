@@ -36,3 +36,11 @@ void QueueBasicOperations();
 void PriorityQueueBasicOperations();
 //simulating browser back button
 void BrowserBackButtonSimulation();
+//set
+void SetOperations();
+//multiset
+void MultiSetOperations();
+//unordered set
+void UnorderedSetOperations();
+//unordered multiset
+void UnorderedMultiSetOperations();

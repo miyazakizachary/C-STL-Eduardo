@@ -22,7 +22,7 @@ int main() {
 
 	*/
 
-	/* vector and list */
+	/* vector and list 
 	cout << "Vector Operations...." << endl;
 	cout << "---------------------" << endl;
 	//VectorOperations();
@@ -30,7 +30,8 @@ int main() {
 	cout << "List Operations..." << endl;
 	cout << "------------------" << endl;
 	//ListOperations();
-	
+	*/
+
 	/*
 	vector<school_guest> * record = new vector<school_guest>;
 	list<school_guest> * record_list = new list<school_guest>;
@@ -78,7 +79,17 @@ int main() {
 	*/
 
 	//simulating browser back button
-	BrowserBackButtonSimulation();
+	//BrowserBackButtonSimulation();
+
+	//set operations
+	//SetOperations();
+	//multiset operations
+	//MultiSetOperations();
+
+	//unordered set operations
+	UnorderedSetOperations();
+	//unordered multiset operations
+	UnorderedMultiSetOperations();
 
 	cin.get();
 }

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\hello_world.cpp">
+    <ClCompile Include="src\a_main_entry.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\vector_operations.cpp">
@@ -28,6 +28,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\deque_stack_queue_operations.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sets_operations.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
