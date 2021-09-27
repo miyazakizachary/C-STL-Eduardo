@@ -78,18 +78,23 @@ int main() {
 	PriorityQueueBasicOperations();
 	*/
 
+	/*
 	//simulating browser back button
-	//BrowserBackButtonSimulation();
+	BrowserBackButtonSimulation();
 
 	//set operations
-	//SetOperations();
+	SetOperations();
 	//multiset operations
-	//MultiSetOperations();
+	MultiSetOperations();
 
 	//unordered set operations
 	UnorderedSetOperations();
 	//unordered multiset operations
 	UnorderedMultiSetOperations();
+	*/
+
+	MapOperations();
+	MultiMapOperations();
 
 	cin.get();
 }
